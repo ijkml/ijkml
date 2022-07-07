@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ml-laure
-- 👀 I’m interested in Jamstack Web Development, and Vue
+- 👋 Hi, I’m Moses Laurence (ML, @ijkml)
+- 👀 I’m interested in Jamstack, Nuxt and Vue
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on shiny thingies, especially front-end projects
 - 📫 Find me on [LinkedIn @ml-laure](https://www.linkedin.com/in/ml-laure)
