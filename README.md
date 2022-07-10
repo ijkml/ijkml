@@ -2,4 +2,4 @@
 - 👀 I’m interested in Jamstack, Nuxt and Vue
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on shiny thingies, especially front-end projects
-- 📫 Find me on [LinkedIn @ml-laure](https://www.linkedin.com/in/ml-laure)
+- 📫 Find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
