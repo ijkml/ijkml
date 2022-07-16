@@ -1,4 +1,4 @@
-# Hi :wave:, I'm ML
+# Hello there :wave:
 
 <br />
 
@@ -56,12 +56,12 @@
 
 <p>
 <a href="https://twitter.com/ijk_ml">
-  <img src="https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2" />
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://t.me/ijk_ml">
-  <img src="https://img.shields.io/badge/Telegram-FFF?style=for-the-badge&logo=Telegram&logoColor=#26A5E4"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ml-laure/">
-  <img src="https://img.shields.io/badge/Linkedin-FFF?style=for-the-badge&logo=Linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
