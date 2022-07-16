@@ -1,5 +1,13 @@
 # Hi :wave:, I'm ML
 
+<br />
+
+- 👋 Hi, I’m Moses Laurence (ML, @ijkml)
+- 👀 I’m interested in Jamstack (Vue, Nuxt, TypeScript)
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 Not super active, but you can find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
+
 <br>
 
 <a href="https://github.com/ijkml/">
