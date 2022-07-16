@@ -11,14 +11,18 @@
 <br>
 
 <a href="https://github.com/ijkml/">
-<img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=vue-dark&include_all_commits=true">
+<img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true">
 </a>
 
 <a href="https://github.com/ijkml/">
-<img align="center" height="188px" src="https://github-readme-streak-stats.herokuapp.com?user=ijkml&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D">
+<img align="center" height="188px" src="https://github-readme-streak-stats.herokuapp.com?user=ijkml&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijkml)](https://github.com/ijkml/ijkml) -->
+
+<br><br>
+
+[![ML's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)](https://github.com/ijkml/)
 
 <br><br>
 
@@ -45,7 +49,7 @@
 
 <br><br>
 
-<h2>Connect with me </h2>
+## Connect with me
 
 <br>
 
