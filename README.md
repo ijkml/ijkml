@@ -22,7 +22,7 @@
 
 <br><br>
 
-[![ML's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)](https://github.com/ijkml/)
+<!-- [![ML's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)](https://github.com/ijkml/) -->
 
 <br><br>
 
