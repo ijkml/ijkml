@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/ijkml/">
-<img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham&hide=stars">
+<img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham">
 </a>
 
 <a href="https://github.com/ijkml/">
