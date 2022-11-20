@@ -22,9 +22,10 @@
 
 <br><br>
 
+<!--
 [![ML's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)
-
 <br><br>
+-->
 
 ## Languages, Skills and Tools
 
