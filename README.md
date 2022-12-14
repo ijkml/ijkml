@@ -18,12 +18,14 @@
 <img align="center" height="188px" src="https://github-readme-streak-stats.herokuapp.com?user=ijkml&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
 </a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijkml)](https://github.com/ijkml/ijkml) -->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijkml&theme=gotham)](https://github.com/ijkml/ijkml)
+-->
 
 <br><br>
 
 <!--
-[![ML's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)](https://activity-graph.herokuapp.com/graph?username=ijkml&theme=gotham)
+[![ML's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ijkml&theme=gotham)](https://github-readme-activity-graph.cyclic.app/graph?username=ijkml&theme=gotham)
 <br><br>
 -->
 
