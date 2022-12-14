@@ -6,7 +6,7 @@
 - 👀 I’m interested in Jamstack (Vue, Nuxt, TypeScript)
 - 🌱 I’m currently learning TypeScript & Astro
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 Hey,find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
+- 📫 Hey, find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
 
 <br>
 
