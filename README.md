@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m Moses Laurence (ML, @ijkml)
 - 👀 I’m interested in Jamstack (Vue, Nuxt, TypeScript)
-- 🌱 I’m currently learning TypeScript & Astro
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently exploring Nuxt and TypeScript
+- 💞️ I’m looking to collaborate on Vue/Typescript projects
 - 📫 Hey, find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
 
 <br>
@@ -63,8 +63,5 @@
 </a>
 <a href="https://t.me/ijk_ml">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ml-laure/">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
