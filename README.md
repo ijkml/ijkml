@@ -11,18 +11,18 @@
 <br>
 
 <a href="https://github.com/ijkml/">
-<img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham">
+  <img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham" />
 </a>
 
 <a href="https://github.com/ijkml/">
-<img align="center" height="188px" src="https://github-readme-streak-stats.herokuapp.com?user=ijkml&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
+  <img align="center" height="188px" src="https://github-readme-streak-stats.herokuapp.com?user=ijkml&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijkml&theme=gotham)](https://github.com/ijkml/ijkml)
--->
+<a href="https://github.com/ijkml/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijkml&theme=gotham&layout=compact" />
+</a>
 
-<br><br>
+<br>
 
 <!--
 [![ML's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ijkml&theme=gotham)](https://github-readme-activity-graph.cyclic.app/graph?username=ijkml&theme=gotham)
