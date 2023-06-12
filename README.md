@@ -35,8 +35,7 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
-![](https://img.shields.io/badge/Windi%20CSS-1867C0?style=for-the-badge&logo=windi%20css&logoColor=white)
+![](https://img.shields.io/badge/UnoCSS-303030?style=for-the-badge&logo=unocss&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Vue-303030?style=for-the-badge&logo=vue.js&logoColor=#4FC08D)
@@ -49,7 +48,9 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![](https://img.shields.io/badge/Sass-E10098?style=for-the-badge&logo=less&logoColor=white)
+![](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 <br><br>
 
