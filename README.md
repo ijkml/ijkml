@@ -3,7 +3,7 @@
 <br />
 
 - 👋 Hi, I’m Moses Laurence (ML, @ijkml)
-- 👀 I’m interested in Jamstack (Vue, Nuxt, TypeScript)
+- 👀 I’m interested in Vue, Nuxt, and TypeScript
 - 🌱 I’m currently exploring Nuxt and TypeScript
 - 💞️ I’m looking to collaborate on Vue/Typescript projects
 - 📫 Hey, find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
