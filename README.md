@@ -27,13 +27,4 @@
 
 ## Let's chat
 
-<br>
-
-<p>
-<a href="https://twitter.com/ijk_ml">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://t.me/ijk_ml">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
-</p>
+Get in touch [ijkml.vercel.app/contact](https://ijkml.vercel.app/contact)
