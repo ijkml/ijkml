@@ -1,12 +1,13 @@
-# Hello there :wave:
+# Hello there 👋
 
 <br />
 
 - 👋 Hi, I’m Moses Laurence (ML, @ijkml)
 - 👀 I’m interested in Vue, Nuxt, and TypeScript
-- 🌱 I’m currently exploring Nuxt and TypeScript
-- 💞️ I’m looking to collaborate on Vue/Typescript projects
-- 📫 Hey, find me on [Twitter @ijk_ml](https://twitter.com/ijk_ml)
+- 🌱 I’m currently exploring Nuxt and TypeScript 💚💙
+- 💞️ I’m looking to collaborate on frontend/fullstack projects
+- 👋 I'd like to connect, [get in touch](https://ijkml.dev)
+- 📬 Or send me an email, hey@ijkml.dev
 
 <br>
 
@@ -27,4 +28,4 @@
 
 ## Let's chat
 
-Get in touch [ijkml.vercel.app/contact](https://ijkml.vercel.app/contact)
+Get in touch [ijkml.dev/contact](https://ijkml.dev/contact)
