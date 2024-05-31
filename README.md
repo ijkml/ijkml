@@ -7,12 +7,12 @@
 - 🌱 I’m currently exploring Nuxt and TypeScript 💚💙
 - 💞️ I’m looking to collaborate on frontend/fullstack projects
 - 👋 I'd like to connect, [get in touch](https://ijkml.dev)
-- 📬 Or send me an email, hey@ijkml.dev
+- 📬 Or send me an email, me@ijkml.dev
 
 <br>
 
 <a href="https://github.com/ijkml/">
-  <img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&&theme=gotham" />
+  <img align="center" height="188px" src="https://github-readme-stats.vercel.app/api?username=ijkml&count_private=true&show_icons=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/ijkml/">
